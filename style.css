@@ -1,0 +1,39 @@
+table, td, th, tr {
+    border: 1px solid; 
+    border-collapse: collapse;
+}
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid;
+    border-color:black;
+    border-collapse: collapse;
+}
+body {    
+    background-color: rgba(255, 255, 255, 0.5);
+    background-blend-mode: lighten;
+      /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://preview.redd.it/looks-like-its-an-updated-version-of-his-comics-v0-zocmkkf7t87e1.jpg?width=1080&crop=smart&auto=webp&s=f67cb07685cf4a55d49dd9d4679b054685471ac8)
+}
+#jeff {
+    color: green;
+    text-decoration: none;
+    font-weight: 100;
+}
+h1 {
+    background-image: linear-gradient(#AE8625 0%, #F7EF8A 25%, #D2AC47 50%, #EDC967 85%, #E0AA3E 100%);
+    color: transparent;
+    -webkit-background-clip:text;
+    font-size: 50px;
+    font-weight: 300;
+}
+.tenor-gif-embed{
+    margin-right: auto;
+    margin-left: auto;
+}
+.nextpage {
+    font-size: 30px;
+    font-weight: 300;
+}
